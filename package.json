@@ -1,7 +1,8 @@
 {
   "name": "vircities-test-app",
+  "author": "Alexey Belozertsev <grimzest@gmail.com>", 
+  "git": "https://github.com/masquel/vircities-test-app.git",
   "version": "0.0.1",
-  "main": "./dist/app.js",
   "browser": {},
   "browserify": {
     "transform": [
